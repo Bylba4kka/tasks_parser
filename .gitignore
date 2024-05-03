@@ -1,0 +1,7 @@
+venv
+*.json
+*.log
+config.py
+__pycache__
+main.log
+error.log

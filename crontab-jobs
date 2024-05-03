@@ -1,0 +1,2 @@
+*/10 * * * * cd /home/flalert && /home/flalert/venv/bin/python3 main.py habr 10
+3,13,23,33,53 * * * * cd /home/flalert && /home/flalert/venv/bin/python3 main.py profi 10
